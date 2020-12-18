@@ -3,7 +3,7 @@
 
 <h3>  About Me!</h3>
 
-  🙋 Monitoring, DevOps Student and content creation!
+  🤷‍ Monitoring, DevOps Student and content creation!
   
   💼 Working as a Monitoring Analist
 

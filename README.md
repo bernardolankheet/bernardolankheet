@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**bernardolankheet/bernardolankheet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <div align="center">
 <h2>Hello, I am Bernardo Lankheet from :brazil:!! </h2>
 
@@ -28,3 +21,5 @@ Here are some ideas to get you started:
 
 
 [![Bernardo Lankheet GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardolankheet&show_icons=true)](https://github.com/bernardolankheet)
+<!--
+**bernardolankheet/bernardolankheet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

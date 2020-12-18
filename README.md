@@ -9,7 +9,7 @@
 
 <h3>⚙️ Stack</h3>
 
-  💻 Zabbix ● Linux ● Docker ● Kubernetes ● Ansible ● Jenkins ● To infinity and beyond!
+  💻 Zabbix ● Grafana ● Linux ● Docker ● Kubernetes ● Ansible ● Jenkins ● To infinity and beyond!
   
   ⭐ Debian ● Centos 
   
@@ -20,7 +20,9 @@
   📸 Instagram - [@bernardolank](https://www.instagram.com/bernardolank)
   ✏️ Medium Posts - [@bernardolankheet](https://medium.com/@bernardolankheet)
   🎬 Youtube Channel - Under construction
-
+  
+<h3> 🏢 Work <h3>
+ ✔️ Linetwork Solucoes Tecnologicas  
 
 [![Bernardo Lankheet GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardolankheet&show_icons=true)](https://github.com/bernardolankheet)
 <!--

@@ -12,6 +12,8 @@
   💻 Zabbix ● Linux ● Docker ● Kubernetes ● Ansible ● Jenkins ● To infinity and beyond!
   
   ⭐ Debian ● Centos 
+  
+  ☁️ Azure
 
 <h3>🛠️ Projects:</h3>
 

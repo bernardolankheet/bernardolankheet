@@ -1,29 +1,18 @@
-<div align="center">
-<h2>Hello, I am Bernardo Lankheet from :brazil:!! </h2>
+<h2 align="center">Hello 👋, I'm Bernardo Lankheet, from :brazil:!! </h2>
 
-<h3>  About Me!</h3>
+<h3>  I am...</h3>
+  * Monitoring, DevOps Student and content creation!  
+  * Zabbix ● Grafana ● Linux ● Docker ● Kubernetes ....  
+  * Cloud: Azure ● AWS
 
-  🤷‍ Monitoring, DevOps Student and content creation!
+<h3>Projects:</h3>
+  * Instagram - [@bernardolank](https://www.instagram.com/bernardolank)
+  * Medium Posts - [@bernardolankheet](https://medium.com/@bernardolankheet)
+  * Youtube Channel - Under construction
+  * Grafana Champion by **[Grafana Labs](https://grafana.com/community/champions/)**
   
-  💼 Working as a Monitoring Analist
+<h3>Work <h3>
+  * @jlcptecnologia  
 
-<h3>⚙️ Stack</h3>
-
-  💻 Zabbix ● Grafana ● Linux ● Docker ● Kubernetes ● Ansible ● To infinity and beyond!
-  
-  ⭐ Debian ● Centos 
-  
-  ☁️ Azure
-
-<h3>🛠️ Projects:</h3>
-
-  📸 Instagram - [@bernardolank](https://www.instagram.com/bernardolank)
-  ✏️ Medium Posts - [@bernardolankheet](https://medium.com/@bernardolankheet)
-  🎬 Youtube Channel - Under construction
-  
-<h3> 🏢 Work <h3>
- ✔️ @jlcptecnologia  
-
-[![Bernardo Lankheet GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardolankheet&show_icons=true)](https://github.com/bernardolankheet)
-<!--
+  <!--
 **bernardolankheet/bernardolankheet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
